@@ -31,5 +31,13 @@
 </details>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kain-Nguyen/Kain-Nguyen/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kain-Nguyen/Kain-Nguyen/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kain-Nguyen/Kain-Nguyen/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1917,100:B48828&height=90&section=footer" alt="Footer Banner" />
 </div>
