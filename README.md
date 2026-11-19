@@ -49,16 +49,6 @@
   </tr>
 </table>
 
----
-
-## `> featured_projects`
-
-| Project | Role & Focus | Highlights |
-| :--- | :--- | :--- |
-| [**AgriDrone — UAV Booking & Dispatch**](https://github.com/Kain-Nguyen/AgriDrone-System-Analysis) | Business Analyst & System Designer | Full ISAD package (D1–D4): Proposal, SRS, Use Case, Activity, Sequence, Domain Class, PostgreSQL ERD & Figma UI across 4 roles. |
-| [**Curve & Confidence — Big Size Fashion**](https://github.com/Kain-Nguyen/bigsize-shop) | System Modeling & Database Design | 3-tier e-commerce system with a 21-table PostgreSQL/Supabase schema, 3-role RBAC, and a 7-day exchange workflow. |
-| [**CityZ Kit — Student Toolkit**](https://github.com/Kain-Nguyen/CityZ-Kit) | Requirement & Business Rules | Student handbook web app with user journeys, "Verified by Student" (`>= 3` reviews) business rules, and Gemini AI filtering. |
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1917,100:B48828&height=90&section=footer" alt="Footer Banner" />
 </div>
