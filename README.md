@@ -8,22 +8,10 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-nguyencaoquockhanh0209%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyencaoquockhanh0209@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyencaoquockhanh0209@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Kain--Nguyen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kain-Nguyen)
 
 </div>
-
----
-
-## `> whoami`
-
-```yaml
-name      : Nguyen Cao Quoc Khanh
-role      : Business Analyst / System Analyst Intern
-education : Information Systems — FPT University HCMC (2024 – Present)
-location  : Ho Chi Minh City, Vietnam
-focus     : Requirement Analysis (SRS/BRD), System Modeling & Database Design
-```
 
 ---
 
