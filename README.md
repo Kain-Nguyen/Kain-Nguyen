@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&multiline=false&width=650&lines=Business+Analyst+%26+System+Analyst+Intern;Information+Systems+%40+FPT+University+HCMC;Requirement+Analysis+%7C+System+Modeling+%7C+SQL" alt="Typing SVG" />
+</div>
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-nguyencaoquockhanh0209%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyencaoquockhanh0209@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Kain--Nguyen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kain-Nguyen)
